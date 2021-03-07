@@ -1417,7 +1417,7 @@
 			"divisor" : "1", 
 			"writable" : "true", 
 			"unit" : "longint",
-			"type" : "value",
+			"type" : "longint",
 			"value_code" : {
 				"0" : "off",
 				"1" : "on"
